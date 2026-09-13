@@ -2,6 +2,16 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Object--Oriented-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+## 🛠️ Built With
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+- **Language:** Java
+- **GUI:** Java Swing
+- **IDE:** NetBeans
+- **Data Storage:** Text Files
+- **Programming Approach:** Object-Oriented Programming (OOP)
 
 # 🍰 GreenLeaf Bakery Management System
 
